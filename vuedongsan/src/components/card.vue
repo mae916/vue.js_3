@@ -17,4 +17,9 @@ export default {
 }
 </script>
 
-<style></style>
+<style>
+.products {
+  text-align: center;
+  margin-top: 50px;
+}
+</style>
